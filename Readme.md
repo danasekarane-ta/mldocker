@@ -43,11 +43,10 @@ Run sample functions or tests to verify the package functionality
 
 2. **Run the Test Script**: Save the script and run it using the following command in your terminal or command prompt:
 
-
-       ```python
-        python test_housing_price_prediction.py
       ```python
        python test_housing_price_prediction.py
 
 
 Running this script will test the functionality of the installed package.
+
+If there any issue with the package testing contact the developer for support
