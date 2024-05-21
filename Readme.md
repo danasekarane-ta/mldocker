@@ -15,7 +15,7 @@ Before installing housingPricePrediction, you need to have Python installed on y
 
 ```bash
 conda env create -f env.yml
-
+```bash
 This command will create a new conda environment and install the required packages specified in the env.yml file.
 
 3. ** Download housingPricePrediction.whl: Download the housingPricePrediction.whl file.
