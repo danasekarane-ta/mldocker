@@ -11,11 +11,11 @@ Before installing housingPricePrediction, you need to have Python installed on y
 ## Installation
 1. **Install Miniconda**: If you don't have Miniconda installed, you can download and install it from the [Miniconda website](https://docs.conda.io/en/latest/miniconda.html). Follow the installation instructions provided for your operating system.
 
-2. **Install Required Packages from env.yml**: Before running or installating the package create new conda environment using the attached env.yml file. you can install them using the following command:
+2. **Install Required Packages from env.yml**: Before running or installating the package create new conda environment using the attached env.yml file. you can install them using the following command
 
-```bash
+
 conda env create -f env.yml
-```bash
+
 This command will create a new conda environment and install the required packages specified in the env.yml file.
 
 3. ** Download housingPricePrediction.whl: Download the housingPricePrediction.whl file.
