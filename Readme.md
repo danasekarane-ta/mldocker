@@ -12,12 +12,7 @@ Before installing HousingPricePrediction, ensure that Python is installed on you
    Here is some Python code:
 
     ```python
-    def hello_world():
-        print("Hello, World!")
-
-
-
-      ```conda env create -f env.yml
+    conda env create -f env.yml
 
 
 This command will create a new conda environment and install the required packages specified in the `env.yml` file.
@@ -26,8 +21,8 @@ This command will create a new conda environment and install the required packag
 
 4. **Install HousingPricePrediction**: Run the following command in your terminal or command prompt to install HousingPricePrediction using pip:
 
-
-    ```pip install -r housingPricePrediction.whl
+    ```python
+    pip install -r housingPricePrediction.whl
 
 
 This command will install the required dependencies specified in the `housingPricePrediction.whl` file.
@@ -37,7 +32,8 @@ This command will install the required dependencies specified in the `housingPri
 1. **Create a Test Script**: After the installation, create a Python script to test the functionality of the installed package. Here's an example Python script (`test_housing_price_prediction.py`) that imports the installed package and runs sample functions or tests to verify its functionality:
 
 
-     ```import housingPricePrediction
+       ```python
+      import housingPricePrediction
 
 Run sample functions or tests to verify the package functionality
 
@@ -45,7 +41,8 @@ Run sample functions or tests to verify the package functionality
 2. **Run the Test Script**: Save the script and run it using the following command in your terminal or command prompt:
 
 
-      ```python test_housing_price_prediction.py
+       ```python
+       python test_housing_price_prediction.py
 
 
 Running this script will test the functionality of the installed package.
