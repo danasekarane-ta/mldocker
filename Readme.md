@@ -46,7 +46,4 @@ If you encounter any issues during installation or testing, please refer to the 
 You can copy the above text and paste it into a text editor like Notepad to create the README.md file with the correct markdown formatting.
 
 
-# Read more about SSH config files: https://linux.die.net/man/5/ssh_config 
-Host Ajay201 
-    HostName 10.2.132.201 
-    User mcA9834
+
