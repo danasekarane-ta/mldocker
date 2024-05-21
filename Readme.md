@@ -9,6 +9,9 @@ Before installing HousingPricePrediction, ensure that Python is installed on you
 
 2. **Create a New Conda Environment**: Before running or installing the package, create a new conda environment using the attached `env.yml` file. You can do this using the following command:
 
+    def hello_world():
+    print("Hello, World!")
+
 
       ```conda env create -f env.yml
 
