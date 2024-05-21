@@ -18,13 +18,13 @@ conda env create -f env.yml
 
 This command will create a new conda environment and install the required packages specified in the env.yml file.
 
-Download housingPricePrediction.yml: Download the mypackage.yml file from the package repository or source.
-Place mypackage.yml in a Folder: Once you have downloaded mypackage.yml, place it in a folder on your system. Navigate to the directory where mypackage.yml is located using your terminal or command prompt.
-Install MyPackage: Run the following command in your terminal or command prompt to install MyPackage using pip:
+3. ** Download housingPricePrediction.whl: Download the housingPricePrediction.whl file.
+Once you have downloaded housingPricePrediction.whl, place it in a folder on your system. Navigate to the directory where housingPricePrediction.whl is located using your terminal or command prompt.
+Install housingPricePrediction: Run the following command in your terminal or command prompt to install MyPackage using pip:
 
-pip install -r mypackage.yml
+pip install -r housingPricePrediction.whl
 
-This command will install the required dependencies specified in the mypackage.yml file.
+This command will install the required dependencies specified in the housingPricePrediction.whl file.
 
 Testing
 
