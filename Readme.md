@@ -14,8 +14,11 @@ Before installing HousingPricePrediction, ensure that Python is installed on you
     ```python
     conda env create -f env.yml
 
-
 This command will create a new conda environment and install the required packages specified in the `env.yml` file.
+
+3. **Activate the Conda Environment**: After creating the new conda environment, you need to activate it. Activation is essential to ensure that the software in the environment works correctly. You can activate the environment using the following command:
+    ```python
+    conda activate myenv
 
 3. **Download `housingPricePrediction.whl`**: Download the `housingPricePrediction.whl` file and place it in a folder on your system. Navigate to the directory where `housingPricePrediction.whl` is located using your terminal or command prompt.
 
