@@ -36,7 +36,7 @@ This command will install the required dependencies specified in the `housingPri
 
 
        ```python
-         import housingPricePrediction
+       import housingPricePrediction
 
 Run sample functions or tests to verify the package functionality
 
@@ -45,7 +45,7 @@ Run sample functions or tests to verify the package functionality
 
 
        ```python
-          python test_housing_price_prediction.py
+       python test_housing_price_prediction.py
 
 
 Running this script will test the functionality of the installed package.
