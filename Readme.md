@@ -6,7 +6,7 @@
     # housingPricePrediction
 
 ## Prerequisites
-Before installing NonStandardPyDan, you need to have Python installed on your system. If you don't have Python installed, you can download it from the [official Python website](https://www.python.org/downloads).
+Before installing housingPricePrediction, you need to have Python installed on your system. If you don't have Python installed, you can download it from the [official Python website](https://www.python.org/downloads).
 
 ## Installation
 1. **Install Miniconda**: If you don't have Miniconda installed, you can download and install it from the [Miniconda website](https://docs.conda.io/en/latest/miniconda.html). Follow the installation instructions provided for your operating system.
@@ -28,15 +28,15 @@ This command will install the required dependencies specified in the housingPric
 
 Testing
 
-Create a Test Script: After the installation, create a Python script to test the functionality of the installed package. Here's an example Python script (test_mypackage.py) that imports the installed package and runs sample functions or tests to verify its functionality:
+Create a Test Script: After the installation, create a Python script to test the functionality of the installed package. Here's an example Python script (test_housing_price_prediction.py) that imports the installed package and runs sample functions or tests to verify its functionality:
 
-import mypackage
+import housingPricePrediction
 
 # Run sample functions or tests to verify the package functionality
 
 Run the Test Script: Save the script and run it using the following command in your terminal or command prompt:
 
-python test_mypackage.py
+python test_housing_price_prediction.py
 
 Running this script will test the functionality of the installed package.
 
