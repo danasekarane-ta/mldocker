@@ -3,22 +3,22 @@
     
 
     
-    # MyPackage
+    # housingPricePrediction
 
 ## Prerequisites
-Before installing MyPackage, you need to have Python installed on your system. If you don't have Python installed, you can download it from the [official Python website](https://www.python.org/downloads).
+Before installing NonStandardPyDan, you need to have Python installed on your system. If you don't have Python installed, you can download it from the [official Python website](https://www.python.org/downloads).
 
 ## Installation
 1. **Install Miniconda**: If you don't have Miniconda installed, you can download and install it from the [Miniconda website](https://docs.conda.io/en/latest/miniconda.html). Follow the installation instructions provided for your operating system.
 
-2. **Install Required Packages from env.yml**: If you have an `env.yml` file containing the required packages, you can install them using the following command:
+2. **Install Required Packages from env.yml**: Before running or installating the package create new conda environment using the attached env.yml file. you can install them using the following command:
 
 ```bash
 conda env create -f env.yml
 
 This command will create a new conda environment and install the required packages specified in the env.yml file.
 
-Download mypackage.yml: Download the mypackage.yml file from the package repository or source.
+Download housingPricePrediction.yml: Download the mypackage.yml file from the package repository or source.
 Place mypackage.yml in a Folder: Once you have downloaded mypackage.yml, place it in a folder on your system. Navigate to the directory where mypackage.yml is located using your terminal or command prompt.
 Install MyPackage: Run the following command in your terminal or command prompt to install MyPackage using pip:
 
