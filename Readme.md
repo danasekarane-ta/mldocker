@@ -35,7 +35,7 @@ This command will install the required dependencies specified in the `housingPri
 1. **Create a Test Script**: After the installation, create a Python script to test the functionality of the installed package. Here's an example Python script (`test_housing_price_prediction.py`) that imports the installed package and runs sample functions or tests to verify its functionality:
 
 
-       ```python
+      ```python
        import housingPricePrediction
 
 Run sample functions or tests to verify the package functionality
